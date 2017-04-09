@@ -1,0 +1,58 @@
+/*.chart{
+	-fx-background-color: #202020;
+}*/
+.chart-title{
+    -fx-font-size: 14pt;
+   /* -fx-text-fill: #999999;*/
+}
+.chart-legend{
+	/*-fx-background-color: #202020;*/
+    -fx-font-size: 8pt;
+   /* -fx-text-fill: #999999;*/
+}
+.chart-legend-item{
+    /*-fx-text-fill: #999999;*/
+}
+.chart-content{
+    -fx-padding: 0 25px 0 0;
+}
+
+/*точки*/
+.chart-line-symbol{
+	-fx-background-insets: 0,4;
+	-fx-background-radius: 2px;
+    -fx-padding: 2px;
+}
+/*линии*/
+.chart-series-line{
+	-fx-stroke-width: 2px;
+}
+
+/*Поле графика*/
+/*.chart-plot-background {
+	-fx-background-color: #202020;
+}*/
+.chart-vertical-grid-lines {
+	/*-fx-stroke: #777777;*/
+	-fx-stroke-width: 1px;
+}
+.chart-horizontal-grid-lines {
+	/*-fx-stroke: #777777;*/
+	-fx-stroke-width: 1px;
+}
+.chart-alternative-row-fill {
+
+}
+
+
+
+/*Оси*/
+.axis {
+    -fx-font-size: 7pt;
+  /*  -fx-tick-label-fill: #999999;*/
+	-fx-stroke-width: 1px;
+}
+.axis-label {
+    -fx-font-size: 12pt;
+   /* -fx-text-fill: #999999;*/
+}

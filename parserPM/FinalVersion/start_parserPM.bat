@@ -1,0 +1,1 @@
+java -jar "C:\Users\sbt-Steshenko-MA\Documents\NetBeansProjects\parserPM\FinalVersion\parserPM.jar" "C:\Users\sbt-Steshenko-MA\Documents\NetBeansProjects\parserPM\FinalVersion\parserPMconfig"
