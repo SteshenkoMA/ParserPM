@@ -20,7 +20,7 @@ CPU_TOTAL_UTIL=http:/hp_pm_adress:1111/OVPM/?GRAPHTEMPLATE=YOUR_GRAPHTEMPLATE&GR
 ________________________________
 __English__
 
-This program allows you to get data about resource utilization of application servers from the HP Performance Manager to CSV format and build on them graphics PNG    
+This program allows you to download data about resource utilization of application servers from the HP Performance Manager to CSV format and build on them graphics PNG    
 
 • In the folder "FinalVersion" - assembled already configured program ready to launch   
 
