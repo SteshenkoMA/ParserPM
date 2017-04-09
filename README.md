@@ -27,7 +27,6 @@ This program allows you to get data about resource utilization of application se
 You need:   
 
 1) Configure in the folder 'parserPMconfig':   
-
 a) timePath.properties path=C:\\Users\\sbt-Steshenko-MA\\Documents - it is the path in which the results will be saved    start=2017,02,25,03,00,00 end=2017,02,25,05,00,00 - period of time for which data should be extracted 
 b) urls.properties CPU_TOTAL_UTIL=http:/hp_pm_adress:1111/OVPM/?GRAPHTEMPLATE=YOUR_GRAPHTEMPLATE&GRAPH=CPU_TOTAL_UTIL&GRAPHTYPE=csv&STARTTIME=start&STOPTIME=end&POINTSEVERY=5&CUSTOMER=login&PASSWORD=password "CPU_TOTAL_UTIL" - the name that you want to set for the graph + path to the graph in HP Performance Manager    
 
